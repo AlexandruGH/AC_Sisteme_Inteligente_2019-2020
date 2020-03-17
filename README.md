@@ -11,5 +11,5 @@
 
 ## ~ Laboratory ~
 
-
-![You after this laboratory](images/Flavius_Belisarius_Battle_of_Dara.jpg)
+## You after this lab!
+![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
