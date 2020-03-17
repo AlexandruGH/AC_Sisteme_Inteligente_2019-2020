@@ -34,5 +34,5 @@
   
   
 
-## You after this lab! (in picture general Flavius Belisarius after his stunning victory at the Battle of Dara)
+## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
