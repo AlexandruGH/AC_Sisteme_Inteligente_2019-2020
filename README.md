@@ -30,7 +30,7 @@
    ### More Bayes nets examples in Pomegranate 
   - [ASIA Example](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_asia.ipynb)
   - [Huge Monty Hall Problem](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_huge_monty_hall.ipynb)
-  - [Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
+- [BONUS Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
   
   
 
