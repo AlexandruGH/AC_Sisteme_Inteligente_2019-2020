@@ -18,7 +18,7 @@
   ## Lab 2
   - [Pomegranate tutorial](https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_4_Bayesian_Networks.ipynb)
   - [Two Generals Problem](https://www.youtube.com/watch?v=s8Wbt0b8bwY)
-  - [Byzantine Generals Problem]()
+  - [Byzantine Generals Problem](https://www.youtube.com/watch?v=SF362xxcfdk&t=4m40s)
   
   ## Lab 3
   - [Pomegranate bug fix and 4-node network example](https://github.com/jmschrei/pomegranate/issues/672)
