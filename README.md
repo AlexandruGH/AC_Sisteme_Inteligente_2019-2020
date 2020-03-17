@@ -12,7 +12,7 @@
 ## ~ Laboratory ~
   
   ## Lab 1
-  - Recap probabilities
+  - [Recap counting methods, probabilities and Bayes Theorem (Starting from video 61 to 75)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
   - [Gödel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)
   
   ## Lab 2
