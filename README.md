@@ -10,6 +10,29 @@
   - [FastAI by Jeremy Howard (More for understanding further topics in Deep Learning and for having a practical perspective of the field)](https://course.fast.ai/videos/?lesson=1)
 
 ## ~ Laboratory ~
+  
+  ## Lab 1
+  - Recap probabilities
+  - [Gödel's Incompleteness Theorem](https://www.youtube.com/watch?v=O4ndIDcDSGc)
+  
+  ## Lab 2
+  - [Pomegranate tutorial](https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_4_Bayesian_Networks.ipynb)
+  - [Two Generals Problem](https://www.youtube.com/watch?v=s8Wbt0b8bwY)
+  - [Byzantine Generals Problem]()
+  
+  ## Lab 3
+  - [Pomegranate bug fix and 4-node network example](https://github.com/jmschrei/pomegranate/issues/672)
+  - [Monty Hall problem explained](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
+  - [Pareto principle explained](https://youtu.be/EAynHZE-lK4)
+  - [Black Swan Event by Nicholas Taleb](https://youtu.be/BDbuJtAiABA)
+  
+  ## Lab 4
+   ## ~ More Bayes nets examples in Pomegranate ~
+  - [ASIA Example](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_asia.ipynb)
+  - [Huge Monty Hall Problem](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_huge_monty_hall.ipynb)
+  - [Bonus - Why is better to "panic" early? Black SWAN Principle talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
+  
+  
 
 ## You after this lab!
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
