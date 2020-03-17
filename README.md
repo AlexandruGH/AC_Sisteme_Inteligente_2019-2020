@@ -1,10 +1,8 @@
-# SI2019-2020
+# Sisteme inteligente
 
-[![](https://image.ibb.co/ez4RJ0/SE-Alex.png)]()
+## ~ Support de curs (suplimentar față de moodle) ~
+  ## ~ Probabilities and Bayes' Nets ~
+  - [Berkeley video lectures (Lectures 12, 16, 17, 18, 19)](http://ai.berkeley.edu/lecture_videos.html)
+  - [Indian video lecture series on Artificial Intelligence by Prof. Dasgupta (Lectures 21, 22, 23, 24, 25)](https://www.youtube.com/playlist?list=PLvx5ei9aEEqJBDBLV3ELK4PKEgnFeOrw6)
+  
 
-
-## ~ Project ~
- - [Cerinte minime proiect](https://docs.google.com/document/d/1MohaGTt_YpdC0vEFwDmlmG4wpHiU-lFhbN0coLjCw6o/edit?usp=sharing)
-  ## ~ Spring ~
-  - [Spring Boot : video](https://www.youtube.com/watch?v=M1niptdxtIM&list=PLs5n5nYB22fI83_UAFbPLC-Mg9Uc6jeU4)
-  - [Spring Boot : official documentation](https://spring.io/guides)
