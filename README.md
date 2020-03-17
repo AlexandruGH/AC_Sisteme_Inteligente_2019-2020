@@ -17,7 +17,7 @@
   
   ## Lab 2
   - [Pomegranate tutorial](https://github.com/jmschrei/pomegranate/blob/master/tutorials/B_Model_Tutorial_4_Bayesian_Networks.ipynb)
-  - [Two Generals Problem](https://www.youtube.com/watch?v=s8Wbt0b8bwY)
+  - [Two Generals' Problem](https://www.youtube.com/watch?v=s8Wbt0b8bwY)
   - [Byzantine Generals Problem](https://www.youtube.com/watch?v=SF362xxcfdk&t=4m40s)
   
   ## Lab 3
@@ -30,7 +30,7 @@
    ### More Bayes nets examples in Pomegranate 
   - [ASIA Example](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_asia.ipynb)
   - [Huge Monty Hall Problem](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_huge_monty_hall.ipynb)
-- [BONUS Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
+  - [BONUS Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
   
   
 
