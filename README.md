@@ -23,14 +23,14 @@
   ## Lab 3
   - [Pomegranate bug fix and 4-node network example](https://github.com/jmschrei/pomegranate/issues/672)
   - [Monty Hall problem explained](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
-  - [Pareto principle explained](https://youtu.be/EAynHZE-lK4)
+  - [Pareto principle (80/20 principle) explained](https://youtu.be/EAynHZE-lK4)
   - [Black Swan Event by Nicholas Taleb](https://youtu.be/BDbuJtAiABA)
   
   ## Lab 4
    ## ~ More Bayes nets examples in Pomegranate ~
   - [ASIA Example](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_asia.ipynb)
   - [Huge Monty Hall Problem](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_huge_monty_hall.ipynb)
-  - [Bonus - Why is better to "panic" early? Black SWAN Principle talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
+  - [Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
   
   
 
