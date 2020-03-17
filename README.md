@@ -24,7 +24,7 @@
   - [Pomegranate bug fix and 4-node network example](https://github.com/jmschrei/pomegranate/issues/672)
   - [Monty Hall problem explained](https://www.youtube.com/watch?v=4Lb-6rxZxx0)
   - [Pareto principle (80/20 principle) explained](https://youtu.be/EAynHZE-lK4)
-  - [Black Swan Event by Nicholas Taleb](https://youtu.be/BDbuJtAiABA)
+  - [Black SWAN Event by Nicholas Taleb](https://youtu.be/BDbuJtAiABA)
   
   ## Lab 4
    ### More Bayes nets examples in Pomegranate 
