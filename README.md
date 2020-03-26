@@ -32,6 +32,10 @@
   - [Huge Monty Hall Problem](https://github.com/jmschrei/pomegranate/blob/master/examples/bayesnet_huge_monty_hall.ipynb)
   - [BONUS Coronavirus - Why is better to "panic" early? Black SWAN Event talk with Nicholas Taleb and Yaneer Bar-Yam](https://youtu.be/e2Kga5HeAqk)
   
+  ## Lab 5 
+   ### Recap and project preparation
+  - [Fuzzy logic - another way of dealing with uncertainty](https://www.youtube.com/watch?v=r804UF8Ia4c)
+  
   
 
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
