@@ -36,7 +36,14 @@
    ### Recap and project preparation
   - [Fuzzy logic - another way of dealing with uncertainty](https://www.youtube.com/watch?v=r804UF8Ia4c)
   
+  ## Lab 6
+  ## Probabilities examination
   
+  ## Lab 7
+  - [Machine Learning introduction and categories](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
+  - [Python recap and important features used in Machine Learning](https://www.kaggle.com/learn/python)
+  - [Google Colab with Jupyter notebook integration](https://colab.research.google.com)
+  - [DeepFakes available for everyone now and 1 million dollars prize to detect it on the Kaggle competition. :)](https://youtu.be/mUfJOQKdtAk)
 
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
