@@ -44,6 +44,17 @@
   - [Python recap and important features used in Machine Learning](https://www.kaggle.com/learn/python)
   - [Google Colab with Jupyter notebook integration](https://colab.research.google.com)
   - [DeepFakes available for everyone now and 1 million dollars prize to detect it on the Kaggle competition. :)](https://youtu.be/mUfJOQKdtAk)
+  
+  ## Lab 8
+  - [Occam's razor - Simple is best!](https://www.techopedia.com/how-does-occams-razor-apply-to-machine-learning/7/33087)
+  ### Perceptron
+  
+  
+  
+  - [BONUS: Perceptron with Cross-Validation](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
+  - [GPT-2: AI that creates stories.](https://openai.com/blog/better-language-models/)
+  - [Use GPT-2 live.](https://talktotransformer.com/)
+  - [Play AIDungeons](https://play.aidungeon.io/)
 
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
