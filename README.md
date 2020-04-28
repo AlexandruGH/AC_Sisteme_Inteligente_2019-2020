@@ -48,8 +48,10 @@
   ## Lab 8
   - [Occam's razor - Simple is best!](https://www.techopedia.com/how-does-occams-razor-apply-to-machine-learning/7/33087)
   ### Perceptron
-  
-  
+  -[Perceptron Part 1](https://medium.com/@thomascountz/perceptrons-in-neural-networks-dc41f3e4c1b9)
+  -[Perceptron AND Gate Part 1](https://medium.com/@thomascountz/tdd-ing-a-perceptron-in-ruby-by-implementing-and-part-1-234c9527ec66)
+  - [Perceptron AND Gate Part 2](https://medium.com/@thomascountz/perceptron-implementing-and-part-2-84bfb1f46597)
+  - [Perceptron Full](https://medium.com/@thomascountz/19-line-line-by-line-python-perceptron-b6f113b161f3)
   
   - [BONUS: Perceptron with Cross-Validation](https://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/)
   - [GPT-2: AI that creates stories.](https://openai.com/blog/better-language-models/)
