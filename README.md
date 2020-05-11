@@ -60,5 +60,16 @@
   - [Use GPT-2 live.](https://talktotransformer.com/)
   - [Play AIDungeons](https://play.aidungeon.io/)
 
+ ## Lab 9 
+ - [Neural Network from scratch in Python](https://victorzhou.com/blog/intro-to-neural-networks/)
+ - [Linear Regression in PyTorch](PytorchIntroduction/SimpleLinearRegressionInPyTorch.ipynb)
+ - [Diabetes prediction in PyTorch](PyTorchIntroduction/DiabetesExample.ipynb)
+ 
+ 
+ ## Lab 10
+ - [Analyze each feature in the dataset](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
+ - [Overfitting(high variance) vs Underfitting(high bias)](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
+ - []()
+
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
