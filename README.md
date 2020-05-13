@@ -60,5 +60,19 @@
   - [Use GPT-2 live.](https://talktotransformer.com/)
   - [Play AIDungeons](https://play.aidungeon.io/)
 
+ ## Lab 9 
+ - [Neural Network from scratch in Python](https://victorzhou.com/blog/intro-to-neural-networks/)
+ - [Linear Regression in PyTorch](PyTorchIntroduction/SimpleLinearRegressionInPyTorch.ipynb)
+ - [Diabetes prediction in PyTorch](PyTorchIntroduction/DiabetesExample.ipynb)
+ 
+ 
+ ## Lab 10
+ - [Analyze each feature in the dataset](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
+ - [Overfitting(high variance) vs Underfitting(high bias)](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
+ - [No free lunch theorem](https://www.kdnuggets.com/2019/09/no-free-lunch-data-science.html)
+ - [Are you suffering from the curse of knowledge?](https://www.lifehack.org/articles/communication/are-you-suffering-from-the-curse-knowledge.html)
+ - [Curse of knowledge video example with experiment.](https://youtu.be/w3jte8XzvGU)
+ - [5 Ways to reverse the curse of knowledge.](https://customer.io/blog/curse-of-knowledge/)
+
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
