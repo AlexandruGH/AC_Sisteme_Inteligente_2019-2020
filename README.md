@@ -62,7 +62,7 @@
 
  ## Lab 9 
  - [Neural Network from scratch in Python](https://victorzhou.com/blog/intro-to-neural-networks/)
- - [Linear Regression in PyTorch](PytorchIntroduction/SimpleLinearRegressionInPyTorch.ipynb)
+ - [Linear Regression in PyTorch](PyTorchIntroduction/SimpleLinearRegressionInPyTorch.ipynb)
  - [Diabetes prediction in PyTorch](PyTorchIntroduction/DiabetesExample.ipynb)
  
  
