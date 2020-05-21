@@ -67,6 +67,10 @@
  
  
  ## Lab 10
+ 
+ - [Simple Heart Disease classification using train and validation set](PyTorchIntroduction/SimpleLinearRegressionInPyTorch.ipynb)
+ - [MiniBatch Heart Disease classification using train and validation set](PyTorchIntroduction/MiniBatchHeartDiseasePytorch.ipynb)
+ ### Theory
  - [Analyze each feature in the dataset](https://towardsdatascience.com/exploratory-data-analysis-with-pandas-profiling-de3aae2ddff3)
  - [Overfitting(high variance) vs Underfitting(high bias)](https://towardsdatascience.com/what-are-overfitting-and-underfitting-in-machine-learning-a96b30864690)
  - [No free lunch theorem](https://www.kdnuggets.com/2019/09/no-free-lunch-data-science.html)
