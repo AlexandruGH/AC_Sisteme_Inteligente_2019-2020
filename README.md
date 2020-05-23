@@ -103,6 +103,18 @@
 - [KNN](https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 - [SVM](https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python)
 
+## Lab 13
 
+- [Shakespeare dataset](https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt)
+- [Eminescu Poezii dataset](https://github.com/paubric/python-stil-canonic/blob/master/data/Mihai%20Eminescu%20-%20Poezii.txt)
+
+## Theory
+- [RNN Theory](https://docs.google.com/presentation/d/17VUX7YXhMkJrqO5gNGh6EE5gzBpY-BF9IrfVKcFIb3A/edit#slide=id.g2847f6f27c_2_112)
+- [RNN Cell Internal structure](https://medium.com/@vsadhak/disassembling-recurrent-neural-networks-695ce75dddf6)
+- [How to diagnose Machine Learning Model Performance from plots](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+- [Curse of Dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
+- [Cross Validation - A technique that isn't pretty much used in Deep Learning](https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f)
+- [Teacher Forcing vs Exposure Bias idea](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
+- [Teacher forcing simple implementation. The loop from the forward function can be simply put to the training function where we have the output and we iterate over sequence characters.](https://github.com/sotte/pytorch_tutorial/blob/master/notebooks/0X_teacher_forcing.ipynb)
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
