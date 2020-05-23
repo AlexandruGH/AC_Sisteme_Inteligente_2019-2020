@@ -105,6 +105,7 @@
 
 ## Lab 13
 
+- [RNN Character generation](PyTorchIntroduction/character_RNN_generation.ipynb)
 - [Shakespeare dataset](https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt)
 - [Eminescu Poezii dataset](https://github.com/paubric/python-stil-canonic/blob/master/data/Mihai%20Eminescu%20-%20Poezii.txt)
 
