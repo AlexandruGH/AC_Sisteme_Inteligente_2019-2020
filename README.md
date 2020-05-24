@@ -119,5 +119,11 @@
 - [Cross Validation - A technique that isn't pretty much used in Deep Learning](https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f)
 - [Teacher Forcing vs Exposure Bias idea](https://towardsdatascience.com/what-is-teacher-forcing-3da6217fed1c)
 - [Teacher forcing simple implementation. The loop from the forward function can be simply put to the training function where we have the output and we iterate over sequence characters.](https://github.com/sotte/pytorch_tutorial/blob/master/notebooks/0X_teacher_forcing.ipynb)
+
+ ## Bonus Lab
+ 
+ - [Generative Adversarial Networks GAN - "The coolest idea in Deep Learning in the last 20 years" Yann LeCun. Implementation from scratch on a simple example in PyTorch](https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4)
+ 
+
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
 ![](images/Flavius_Belisarius_Battle_of_Dara.jpg)
