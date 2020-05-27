@@ -6,9 +6,14 @@
   - [Indian video lecture series on Artificial Intelligence by Prof. Dasgupta (Lectures 21, 22, 23, 24, 25)](https://www.youtube.com/playlist?list=PLvx5ei9aEEqJBDBLV3ELK4PKEgnFeOrw6)
   
   ## ~ Machine Learning ~
-  - [Stanford Machine Learning Course by Prof. Andrew Ng on Cousera platform (until week 5 of the course with Neural Networks)](https://www.coursera.org/learn/machine-learning)
   - [FastAI by Jeremy Howard (More for understanding further topics in Deep Learning and for having a practical perspective of the field)](https://course.fast.ai/videos/?lesson=1)
-
+  - [Cool and short tutorial on PyTorch MLP, CNN and RNN](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+  - [DeepLizard tutorial on Neural Network with PyTorch](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+  - [Stanford Machine Learning Course by Prof. Andrew Ng on Cousera platform (until week 5 of the course with Neural Networks)](https://www.coursera.org/learn/machine-learning)
+  
+  ### A great Deep Learning book available online
+  - [Deep Learning - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+  
 ## ~ Laboratory ~
   
   ## Lab 1
@@ -123,6 +128,13 @@
  ## Bonus Lab
  
  - [Generative Adversarial Networks GAN - "The coolest idea in Deep Learning in the last 20 years" Yann LeCun. Implementation from scratch on a simple example in PyTorch](https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4)
+ - [Pirate guide to Accuracy, Precision, Recall, etc.](https://blog.floydhub.com/a-pirates-guide-to-accuracy-precision-recall-and-other-scores/)
+ - [Andrej Karpathy - AI Tesla Director - “the most common neural net mistakes” - original twitter post](https://twitter.com/karpathy/status/1013244313327681536?lang=en)
+ - [Andrej Karpathy - AI Tesla Director - A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+ - [Tensorboard tutorial - A professional way to visualize and compare metrics with a lot of other visualization features](https://deeplizard.com/learn/video/pSexXMdruFM)
+ - [PyData conference on Deep Neural Networks with PyTorch](https://youtu.be/_H3aw6wkCv0)
+ - [Attention - An amaizing mechanism that sets State Of The Art now](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+ - [Machine Learning Engineers Will Not Exist In 10 Years. - Why? What do you think? :) ](https://mc.ai/machine-learning-engineers-will-not-exist-in-10-years/)
  
 
 ## You after this lab! (in picture, general Flavius Belisarius after his stunning victory at the Battle of Dara)
